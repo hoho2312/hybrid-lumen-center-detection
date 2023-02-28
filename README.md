@@ -1,7 +1,7 @@
 # hybrid-lumen-center-detection
 A lumen center estimation method based on deep learning (LCD model) and traditional CV techniques
 
-Paper has been submitted to IROS 2023
+Paper has been submitted to IROS 2023 with title: Autonomous Robotic Colonoscope Navigation Framework Based on a Hybrid Lumen Center Detection Model
 
 This repo consists of the trained LCD model for lumen contour detection, the code for estimation (which is the algorithm proposed in the submitted paper)
 

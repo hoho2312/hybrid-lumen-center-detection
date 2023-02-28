@@ -5,6 +5,6 @@ Paper has been submitted to IROS 2023 with title: Autonomous Robotic Colonoscope
 
 This repo consists of the trained LCD model for lumen contour detection, the code for estimation (which is the algorithm proposed in the submitted paper)
 
-The lumen contour dataset (created from randomly selected subset images of LDPolypVideo dataset) can be found on: [onedrive](https://google.com.hk)
+The lumen contour dataset (created from randomly selected subset images of LDPolypVideo dataset) can be found on: [onedrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155079256_link_cuhk_edu_hk/EltFmbpMGAlFgwFRzkocLKwBwnSEk3fXOf43bCOlWVl2hA?e=w1kVVq)
 
 To train the LCD model, please refer to the repo of LCD or DexiNed for further reading.

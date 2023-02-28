@@ -220,7 +220,7 @@ if __name__ == "__main__":
     device = torch.device('cpu' if torch.cuda.device_count() == 0 else 'cuda')
     model = LDC().to(device)
     model.load_state_dict(
-        torch.load('C:/Users/softrobotlab/PycharmProjects/edge_detect_samples/checkpoints/BIPED/24/24_model.pth', map_location=device))
+        torch.load('24_model.pth', map_location=device))
     model.eval()  # not recording gradient since we only infer images, not in training pipeline
 
     need_record = True  # only in video mode

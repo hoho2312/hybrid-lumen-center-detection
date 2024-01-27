@@ -1,7 +1,7 @@
 # hybrid-lumen-center-detection
 A lumen center estimation method based on deep learning (modified LDC model) and traditional CV techniques
 
-Paper has been submitted to TIM with title: Robust Colon Lumen Center Measurement Enables Autonomous Navigation of an Electromagnetically Actuated Soft-Tethered Colonoscope
+Paper has been submitted to IEEE TIM with title: Robust Colon Lumen Center Measurement Enables Autonomous Navigation of an Electromagnetically Actuated Soft-Tethered Colonoscope
 
 This repo will consist of the trained modified LDC model for lumen contour detection, the code for lumen center estimation (which is the algorithm proposed in the submitted paper). Dataset for training and testing will be uploaded soon.
 
